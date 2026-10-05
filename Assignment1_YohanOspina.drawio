@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="JGIK_jq26fs7oPycX6nL">
+    <mxGraphModel dx="2836" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-size: 14.6667px;&quot;&gt;ASSIGNMENT 1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="167" x="339" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span id=&quot;docs-internal-guid-fbf34a4b-7fff-646f-afd8-f1427d55d1ee&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: Cambria, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Marco Metodológico Blend360: 4P+T&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="233" x="-112" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-eb7547cf-7fff-de45-d46c-ca7233dc0b06&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Producto&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="88" x="-79" y="341" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-5" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-4bed4bfc-7fff-049a-72b0-24e7d318d5c3&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Proceso&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="82" x="20" y="341" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-53065daf-7fff-4674-a23b-37097d5251a4&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Proyectos&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="94" x="-85" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-4b357f46-7fff-6504-c39f-dd954b6f2a8d&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Herramientas&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="118" x="9" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-8" edge="1" parent="1" source="z5kmDpFqnkT6XEdl0GBe-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="z5kmDpFqnkT6XEdl0GBe-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="432" y="476" as="sourcePoint" />
+            <mxPoint x="482" y="426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span id=&quot;docs-internal-guid-49df2270-7fff-d726-03fa-71ccde6a59a0&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Plan de Certificaciones Cloud &amp;amp; IA&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="247" x="154" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-11" edge="1" parent="1" source="z5kmDpFqnkT6XEdl0GBe-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="z5kmDpFqnkT6XEdl0GBe-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="431.33" y="197.83" as="sourcePoint" />
+            <mxPoint x="413" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-e7d8a157-7fff-600d-c5fd-ca5d62fe1673&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;AWS Cloud Practitioner&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="183" x="160" y="328.9966666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-e59bd4a7-7fff-8af1-a258-200975d8b7d4&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;AWS AI Practitioner &amp;amp; Associate&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="241" x="214" y="355.9966666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-923f3960-7fff-af34-9610-b3b5bc66ce61&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Ruta de Estudio&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="131" x="162.0033333333335" y="384.0033333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span id=&quot;docs-internal-guid-e50fe638-7fff-0c1a-c3fc-3ad9f16139ee&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: Cambria, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Capacitaciones Técnicas de Repaso&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="214" x="441" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-17" edge="1" parent="1" source="z5kmDpFqnkT6XEdl0GBe-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="z5kmDpFqnkT6XEdl0GBe-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="423" y="447" as="sourcePoint" />
+            <mxPoint x="473" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-2f22a6bb-7fff-aef9-c5bf-38ff4c43f883&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Git 101 [P2083]&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="131" x="463" y="325.9966666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-c92ef944-7fff-c904-f6d4-cfe93c334ab2&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Docker 101 [P0122]&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="158" x="534.9966666666668" y="352.0033333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-a0ea61ac-7fff-ed8d-9c7e-64754d985d25&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Scrum y Estimaciones&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="174" x="454.9966666666668" y="375.9966666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span id=&quot;docs-internal-guid-a870a058-7fff-7284-f5c0-f70909274ee1&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: Cambria, serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Arquitectura de Plataforma Blend360 y Houndoc&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="334" x="677" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-22" edge="1" parent="1" source="z5kmDpFqnkT6XEdl0GBe-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="z5kmDpFqnkT6XEdl0GBe-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="488" y="216" as="sourcePoint" />
+            <mxPoint x="538" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-e05cb64a-7fff-52ee-9f84-dc5f96086746&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Roboto, sans-serif; color: rgb(31, 31, 31); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Autenticación e IAM&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="152" x="707.0028571428574" y="328.99857142857155" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-503422b2-7fff-6f67-a845-ef36a79c1d0b&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Motor de Búsqueda OpenSearch&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="241" x="872.9971428571431" y="328.99285714285736" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-25" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-8ec1554b-7fff-afc4-15ba-ec2c6a63a558&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Arquitectura RAG &amp;amp; Inteligencia Artificial&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="297" x="718.0042857142857" y="362.0014285714287" as="geometry" />
+        </mxCell>
+        <mxCell id="z5kmDpFqnkT6XEdl0GBe-26" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-60eb7813-7fff-da40-0818-bd9792184e53&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Roboto,sans-serif;color:#1f1f1f;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Aceleradores y Soporte&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="183" x="768.0000000000005" y="396.0014285714287" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
